@@ -1,0 +1,11 @@
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\bin\Debug\netcoreapp2.2\Patron Estructural.deps.json
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\bin\Debug\netcoreapp2.2\Patron Estructural.runtimeconfig.json
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\bin\Debug\netcoreapp2.2\Patron Estructural.runtimeconfig.dev.json
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\bin\Debug\netcoreapp2.2\Patron Estructural.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\bin\Debug\netcoreapp2.2\Patron Estructural.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\obj\Debug\netcoreapp2.2\Patron Estructural.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\obj\Debug\netcoreapp2.2\Patron Estructural.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\obj\Debug\netcoreapp2.2\Patron Estructural.AssemblyInfoInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\obj\Debug\netcoreapp2.2\Patron Estructural.AssemblyInfo.cs
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\obj\Debug\netcoreapp2.2\Patron Estructural.dll
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 4\Patron Estructural\Patron Estructural\obj\Debug\netcoreapp2.2\Patron Estructural.pdb
